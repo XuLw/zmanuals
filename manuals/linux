@@ -35,3 +35,24 @@
 * 修改 /etc/default/grub
 	* 修改为上一次启动: `GRUB_SAVEDEFAULT=true
 				GRUB_DEFAULT=saved`
+
+--------------------------------------------------
+## 好用的软件
+ 
+1. 电源管理
+    + TLP
+
+2. VMware 虚拟机与物理机共享剪切板
+    + vmware-tools
+    
+3. 系统备份
+    + timeshift
+    
+4. pdf阅读器
+    + foxit [yaourt]
+
+5. 视频播放
+    + mpv
+
+6. 下载器
+    + uget
